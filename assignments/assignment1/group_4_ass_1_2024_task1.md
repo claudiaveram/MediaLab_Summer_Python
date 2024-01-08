@@ -12,3 +12,8 @@
 ### a. Database: Perception of gym quality
 ### b. Information: I would like to know people's perceptions of their gyms to conduct a study.
 ### c. Interest: I would like to know people's perceptions of their gyms to conduct a study.
+
+# Claudia Vera - c.veramarquina@gmail.com
+### a. Database: Opinion Journalism
+### b. Information: Data about Opinion Journalism, Citizen Journalism and Columns
+### c. Interest: I would like to know about how different network groups have work with Opinion Journalism from 2013 to 2023.
